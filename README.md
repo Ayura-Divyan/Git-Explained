@@ -39,4 +39,8 @@ Let’s say you accidently added a file you don’t want to commit rn to the sta
 
 ### Repository
 
-This is like a hidden save file
+This is like a hidden save file, you would save (commit) your work on to this whenever you are done with something major, like you created your source files, complete a function, or completing the css for a specific class/tag.
+
+Here are commands related to this part:
+- _git commit -m "<your message here>"_ - this is your regular commit
+- _git commit -a -m "<your message here>"_ - this is like _git add -A_ merged with _git commit_ but it doesn't commit new or deleted files. Only the modified files.
