@@ -44,3 +44,7 @@ This is like a hidden save file, you would save (commit) your work on to this wh
 Here are commands related to this part:
 - _git commit -m "<your message here>"_ - this is your regular commit
 - _git commit -a -m "<your message here>"_ - this is like _git add -A_ merged with _git commit_ but it doesn't commit new or deleted files. Only the modified files.
+
+## Branches
+
+This right here is the fun stuff, that makes git versitile and fun to use. BRANCHES
