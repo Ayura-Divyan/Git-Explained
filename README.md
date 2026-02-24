@@ -47,4 +47,4 @@ Here are commands related to this part:
 
 ## Branches
 
-This right here is the fun stuff, that makes git versitile and fun to use. BRANCHES
+This right here is the fun stuff, that makes git versitile and fun to use. 
