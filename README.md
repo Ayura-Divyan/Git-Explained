@@ -16,7 +16,7 @@ The local repository is divided to
  
 
 ![image.png](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*diRLm1S5hkVoh5qeArND0Q.png)
-}
+
 ## Local Repository
 
 ### Working directory
